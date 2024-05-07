@@ -1,7 +1,7 @@
 ![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZ24_JIGOzBPymz1lSjJhalAtg_UO0YZJXzc3ZUMZ9A&s)
 <h1 align="center">Hi 👋, I'm Nimesh</h1>
 <h3 align="center">Undergraduate Software Engineer at NSBM University affiliated Plymouth university UK</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.makeagif.com/media/4-05-2022/FvBVst.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nim57&label=Profile%20views&color=0e75b6&style=flat" alt="nim57" /> </p>
 
