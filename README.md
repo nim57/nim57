@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nim57&label=Profile%20views&color=0e75b6&style=flat" alt="nim57" /> </p>
 
-- 🔭 I’m currently working on **Flutter E commerce Mobile Application**
+- 🔭 I’m currently working on **ECHO Review System**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter,Python**
 
 - 💬 Ask me about **Flutter**
 
