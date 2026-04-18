@@ -1,29 +1,102 @@
-<h1 align="center">Hi 👋, I'm Nimesh Sandaruwan</h1>
-<h3 align="center">Undergraduate Software Engineer at NSBM University affiliated Plymouth university UK</h3>
+# 👋 Hi, I'm Nimesh Karunathilaka
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nim57&label=Profile%20views&color=0e75b6&style=flat" alt="nim57" /> </p>
+🚀 **Software Engineer | Full Stack Developer | Spring Boot | Flutter**
 
-- 🔭 I’m currently working on **ECHO Review System**
+---
 
-- 🌱 I’m currently learning **Flutter,Python**
+## 💡 About Me
 
-- 💬 Ask me about **Flutter**
+I am a passionate Software Engineer specializing in **Java Spring Boot backend development** and **Flutter mobile application development**.  
+I enjoy building scalable backend systems, cross-platform mobile apps, and AI-integrated solutions with clean architecture and modern technologies.
 
-- 📫 How to reach me **nimeshsandaruwan268@gmail.com**
+- 🔭 Currently working on Full Stack Development (Spring Boot + Flutter)
+- 🌱 Exploring Microservices, Cloud, and System Design
+- 💬 Ask me about Java, Spring Boot, Flutter, Firebase, and REST APIs
+- 🎯 Goal: Become a top-tier Full Stack / Backend Engineer in UK/EU industry
 
-- ⚡ Fun fact **Smile Every time**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nimesh sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesh sandaruwan" height="30" width="40" /></a>
-<a href="https://fb.com/nimesh sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimesh sandaruwan" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nim57&show_icons=true&locale=en&layout=compact" alt="nim57" /></p>
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nim57&show_icons=true&locale=en" alt="nim57" /></p>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nim57&" alt="nim57" /></p>
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🏢 Full Stack Developer – CashMate
+- Built scalable backend using **Spring Boot Microservices**
+- Developed REST APIs for financial platform
+- Worked with PostgreSQL, Redis, Docker
+- Agile development using Jira & Confluence
+
+### 📱 Mobile Developer Intern – Quickman Platform
+- Developed Flutter cross-platform mobile apps
+- Integrated Spring Boot APIs
+- Designed UI/UX using Figma
+- Worked in Agile team environment
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Echo Review App (Final Year Project)
+- Flutter mobile app with modern UI
+- AI sentiment analysis using Python
+- Fake account detection system
+- Google Maps + QR verification integration
+
+### 🛒 E-Commerce Mobile App
+- Flutter + Firebase authentication
+- Product listing and cart system
+
+### 🗺️ Travel Guide App
+- Google Maps API integration
+- Location-based travel recommendations
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nim57&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nim57&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: nimeshsandaruwan268@gmail.com  
+- 🌐 Portfolio: https://nimeshsandaruwan.netlify.app/  
+- 💼 LinkedIn: https://linkedin.com/in/nimesh-sandaruwan-149787241  
+- 🐙 GitHub: https://github.com/nim57  
+
+---
+
+## ⚡ Fun Fact
+
+I love building real-world systems that solve problems and improve user experience through clean architecture and scalable design.
+
+---
+
+⭐ *“Code is not just syntax, it's problem solving with creativity.”*
